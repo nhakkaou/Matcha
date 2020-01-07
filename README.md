@@ -17,3 +17,6 @@ serve -s dist
 cd Api
 npm run dev 
 ```
+## Authors
+
+***Noreddine Hakkaoui && Yasser Bolles** 
