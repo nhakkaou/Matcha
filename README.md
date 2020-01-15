@@ -1,5 +1,5 @@
 # Matcha
-Résumé: Parce que l’amour aussi, ca s’industrialise/ un projet web
+Un projet web
 ## Skills:
 Micro-framework
 Comptes utilisateur avancés
