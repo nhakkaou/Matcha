@@ -26,7 +26,7 @@ import * as VueGoogleMaps from 'vue2-google-maps'
 Vue.use(VueNoty)
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyDoFl8M_lXel1Lhw2VvyOq1Dblp1-frH_M'
+    key: 'XXXXXXXXXXXXXXXXXXXXXX'
   }
 })
 // NPM installed modules
