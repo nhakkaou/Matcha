@@ -9,6 +9,21 @@ Sécurité / Validation de données
 Security
 DB & Data
 Web
+### Features
+
+- Inscription and connexion
+- User profile
+- User experience
+- Research and filter users
+- Real time chat
+- Real time notification system
+- Using Google API
+### Frameworks
+
+- Node.js : https://nodejs.org/
+- Express : http://expressjs.com/
+- Mysql : https://www.mysql.com/
+- Socket.io : https://socket.io/
 # how tou use:
 ```
 Lance le script pour hydrater la base donnes qui contient plus de 500 profils
